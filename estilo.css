@@ -1,0 +1,6 @@
+body { font-family: sans-serif; padding: 1rem; }
+a { color: blue; text-decoration: none; }
+a:hover { text-decoration: underline; }
+h1 { margin-bottom: .5rem; }
+form input { margin: .25rem 0; }
+button { margin-right: .5rem; }
